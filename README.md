@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/joc-rgb/](https://github.com/joc-rgb/)
 
-- 📝 I regularly write articles on [https://jocrgb.hashnode.dev/](https://jocrgb.hashnode.dev/)
+- 📝 I regularly write articles on [https://dev.to/jocrgb](https://dev.to/jocrgb)
 
 - 📫 How to reach me **jocrgb#6476**
 
