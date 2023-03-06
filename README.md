@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jocrgb#6476**
 
-- ⚡ Fun fact **I actually love to code.**
+- ⚡ Interested in **AI🤖, Blockchain🔑, Web Development🌐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
