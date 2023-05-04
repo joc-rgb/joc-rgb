@@ -4,13 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joc-rgb&label=Profile%20views&color=4787b8&style=plastic" alt="joc-rgb" /> </p>
 
 
-- 🔭 I’m currently working on [sudolife](https://github.com/joc-rgb/sudolife)
-
-- 🌱 I’m currently learning **Backend development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/joc-rgb/](https://github.com/joc-rgb/)
-
-- 📝 I regularly write articles on [https://dev.to/jocrgb](https://dev.to/jocrgb)
 
 - 📫 How to reach me **jocrgb#6476**
 
