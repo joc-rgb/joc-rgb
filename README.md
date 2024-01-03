@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joc</h1>
-<h3 align="center">Developer/Programmer/Creator/Engineer/Builder</h3>
+<h3 align="center">I code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joc-rgb&label=Profile%20views&color=4787b8&style=plastic" alt="joc-rgb" /> </p>
 
