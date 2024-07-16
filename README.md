@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **jocrgb#6476**
 
-- ⚡ Interested in **AI🤖, Blockchain🔑, Web Development🌐**
+- ⚡ Interested in **AI🤖, Cloud🔑, Data Engineering🌐**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joc-rgb&show_icons=true&theme=dark&locale=en&layout=compact" alt="joc-rgb" /></p>
 
